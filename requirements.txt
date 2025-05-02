@@ -2,3 +2,5 @@ torch~=2.7.0
 scikit-learn~=1.6.1
 pillow~=11.2.1
 numpy~=2.2.5
+torchvision
+matplotlib
